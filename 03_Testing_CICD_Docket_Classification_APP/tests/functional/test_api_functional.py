@@ -30,6 +30,7 @@ import os
 import sys
 from unittest.mock import MagicMock, patch
 
+
 from fastapi.testclient import TestClient
 
 # Add the project root to sys.path to allow imports from app.py
